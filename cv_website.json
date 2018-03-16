@@ -1,0 +1,87 @@
+{
+  "title": "MaYi",
+  "name": "Liu Cheng",
+  "role": "senior front end developer",
+  "tag": "CV",
+  "email": "liucheng@flyingant.me",
+  "wechat": "LittleFlyingAnt",
+  "github": "https://github.com/flyingant",
+  "summary": [
+    "My name is <b>Liu Cheng</b> A.K.A &acute;<b>MaYi</b>&acute; and I am an enthusiastic and self-motivated <b>Senior Front End Developer</b> which have 6 year+ commercial experience in developing mid to large-scale websites, web application and desktop&mobile application based on the latest technologies like React, Electron, React Native, Grails etc.",
+    "I'm living in Wuhan, China and currently working at <a href='https://wiredcraft.com' target='_blank'>Wiredcraft</a> Co. Ltd. in Shanghai, China. If you wish to find out more about me, you could email me at <a href='mailto:liucheng@flyingant.me' target='_blank'>liucheng@flyingant.me</a> or visit the following links (<a href='https://www.linkedin.com/in/flyingant' target='_blank'>LinkedIn</a>, <a href='https://github.com/flyingant' target='_blank'>GitHub</a>)."
+  ],
+  "cards": [
+    {
+      "title": "Projects",
+      "style": "experiences",
+      "contents": [
+        {
+          "title": "<a href='https://www.starbucks.com.cn' target='_blank'>Starbucks China</a> | 2016 - 2018",
+          "description": "<b>Front end Team leader & Front end Developer</b>"
+        },
+        {
+          "title": "<a href='#' target='_blank'>Etam Digital Table</a> | 2016 - 2017",
+          "description": "<b>Front end Team leader & Front end Developer</b> <br/><br/> - Desktop Application"
+        },
+        {
+          "title": "<a href='http://imadmen.net' target='_blank'>imadmen.net</a> | 2015 - 2016",
+          "description": "<b> Project Manager & Front end Developer </b>"
+        },
+        {
+          "title": "<a href='http://www.apploi.com' target='_blank'>Apploi</a> | 2013 - 2014",
+          "description": "<b>Web Developer & iOS Developer</b>"
+        },
+        {
+          "title": "<a href='http://www.tooieapp.com' target='_blank'>Tooie</a> | 2012 - 2016",
+          "description": "<b>Project Manager & Web Developer</b>"
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "style": "skills",
+      "contents": [
+        {
+          "title": "DEVELOPMENT",
+          "description": "JAVASCRIPT | REACT | REACT NATIVE | NodeJS | BACKBONE | ELECTRON <br/> HTML5 | CSS3 | LESS | SCSS | BOOTSTRAP<br/>JAVA | GROOVY | GRAILS <br/>  iOS | ANDROID | OBJECTIVE-C <br/>MYSQL <br/> GIT | SVN<br/>WECHAT APP | ALIYUN <br/>"
+        },
+        {
+          "title": "DESIGN",
+          "description": "SKETCH | INVISION | PHOTOSHOP"
+        },
+        {
+          "title": "LANGUAGE",
+          "description": "CHINESE | ENGLISH"
+        }
+      ]
+    },
+    {
+      "title": "Career History",
+      "style": "career",
+      "contents": [
+        {
+          "title": "<a href='https://wiredcraft.com/'>Wiredcraft</a>",
+          "description": "August 2016 – Present , Shanghai, China <br/><br/> Front-End Strategy & Developer"
+        },
+        {
+          "title": "<a href='http://www.apploi.com/'>Apploi</a>",
+          "description": "March 2014 - July 2014 , Manhattan, New York City <br/><br/> Web Developer & iOS Developer"
+        },
+        {
+          "title": "<a href='http://www.breezecapsule.com/'>Breeze Capsule</a>",
+          "description": "April 2012 – July 2016 , Wuhan, Hubei, China <br/><br/> Full-Stack Developer"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "style": "education",
+      "contents": [
+        {
+          "title": "Wuhan University",
+          "description": "Bachelor&acute;s degree, Computer Science <br/> 2007 - 2011"
+        }
+      ]
+    }
+  ]
+}
