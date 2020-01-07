@@ -1,0 +1,20 @@
+{
+  "data":[
+    {
+      "name":"上海",
+      "person": "",
+      "phone": "",
+      "address": "",
+      "addressline1": "",
+      "addfressline2": ""
+    },
+    {
+      "name":"武汉",
+      "person": "",
+      "phone": "",
+      "address": "",
+      "addressline1": "",
+      "addfressline2": ""
+    }
+    ]
+}
